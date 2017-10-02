@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cndanywer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cn.danywer.war">
+      <element id="artifact" artifact-name="cndanywer:war exploded" />
+    </root>
+  </artifact>
+</component>
